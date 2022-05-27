@@ -33,3 +33,12 @@ A repository made for Flexy (https://flexy01.herokuapp.com/).
 -   After all the dependencies are installed run  `npm run dev`.
     
 -   This will run the local server and you will be able to use all the React and Node.js goodness.
+	
+## 🤚 About Us
+
+Team Icons:-
+
+ - Adita Verma ([Github Profile)](https://github.com/createadi)
+ - Abhishek Kumar [(Github Profile)](https://github.com/abhik063)
+ - Ishan Bhatia [(Github Profile)](https://github.com/Ishanbhatia98)
+ - Manak Preet Singh
